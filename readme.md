@@ -1,6 +1,6 @@
 # CoinBASED
 
-Une application C permettant la simulation d'inestissement dans la crypto monnaie.
+Une application C permettant la simulation d'inestissements dans des crypto-monnaies.
 
 ## Fonctioinnalités
 
