@@ -1,6 +1,6 @@
 # CoinBASED
 
-Une application C permettant la simulation d'inestissements dans des crypto-monnaies.
+Une application C permettant la simulation d'investissements dans des crypto-monnaies.
 
 ## Fonctioinnalités
 
