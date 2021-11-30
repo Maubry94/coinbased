@@ -12,3 +12,9 @@ Une application C permettant la simulation d'inestissement dans la crypto monnai
 - Barre de recherche permettant de selctionner la cryptomonnaie voulue (expl BTC - ETH)
 - Achat "réel" de crypto + injection dans le wallet
 - historique d'achat
+
+## Bibliothèques utilisées
+
+- curl pour les requêtes api
+- GtK, SDL, Allegro, SFML pour les graphismes (à déterminer)
+- coinmarketcap api pour les données relatives aux cryptos monnaies
