@@ -2,7 +2,7 @@
 
 Une application C permettant la simulation d'investissements dans des crypto-monnaies.
 
-## Fonctioinnalités
+## Fonctionnalités
 
 - Connexion / Inscription
 - Regarder le cours en temps en réel des cryptos (via api request, lib CURL et l'api de coinmarketcap)
