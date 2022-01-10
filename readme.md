@@ -5,7 +5,7 @@ Une application C permettant la simulation d'investissements dans des crypto-mon
 ## Fonctionnalités
 
 - Connexion / Inscription
-- Regarder le cours en temps en réel des cryptos (via api request, lib CURL et l'api de coinmarketcap)
+- Regarder le cours en temps réel des cryptos (via api request, lib CURL et l'api de coinmarketcap)
 - Affichage graphique des courbes sur 1H, 4H, 1D, 7D, 1M, 1Y, 5Y, ALL (via lib graphique)
 - Simulation d'investissement de cryptos
 - Pouvoir modifier son profil et inspecter ses cryptos dans son portefeuille (via BDD)
